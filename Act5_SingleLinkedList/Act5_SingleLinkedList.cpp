@@ -9,3 +9,6 @@ struct Node {
 
 Node* START = NULL;
 
+void addNode() {
+
+}
