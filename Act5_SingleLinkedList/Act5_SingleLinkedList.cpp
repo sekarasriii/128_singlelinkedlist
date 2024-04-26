@@ -2,4 +2,6 @@
 using namespace std;
 
 struct Node {
+	int noMhs;
+
 };
